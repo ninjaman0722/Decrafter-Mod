@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#E#",
+    "EEE",
+    "#E#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "E": {
+      "item": "decrafter:enderveirs"
+    }
+  },
+  "result": {
+    "item": "decrafter:decrafter",
+    "count": 1
+  }
+}
